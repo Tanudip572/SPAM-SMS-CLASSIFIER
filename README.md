@@ -112,7 +112,7 @@ SMS-Spam-Detection/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/SMS-Spam-Detection.git
+git clone https://github.com/Tanudip572/SMS-Spam-Detection.git
 cd SMS-Spam-Detection
 ```
 
